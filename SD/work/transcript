@@ -1,0 +1,19 @@
+vsim -gui work.somador4bits_tb
+# vsim -gui work.somador4bits_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.somador4bits_tb(tb)
+# Loading work.somador4bits(arch_s4bits)
+# Loading work.meiosomador(arch_ms)
+# Loading work.somadorcompleto(arch_sc)
+# WARNING: No extended dataflow license exists
+vsim -gui work.somador4bits_tb
+# vsim -gui work.somador4bits_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.somador4bits_tb(tb)
+# Loading work.somador4bits(arch_s4bits)
+# Loading work.meiosomador(arch_ms)
+# Loading work.somadorcompleto(arch_sc)

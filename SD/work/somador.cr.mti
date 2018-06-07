@@ -1,0 +1,33 @@
+C:/Users/a11721BCC031/Documents/VHDL/pr/work/meiosomador.vhd {1 {vcom -work work -2002 -explicit C:/Users/a11721BCC031/Documents/VHDL/pr/work/meiosomador.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity meiosomador
+-- Compiling architecture arch_ms of meiosomador
+
+} {} {}} C:/Users/a11721BCC031/Documents/VHDL/pr/work/somador4bits.vhd {1 {vcom -work work -2002 -explicit C:/Users/a11721BCC031/Documents/VHDL/pr/work/somador4bits.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador4bits
+-- Compiling architecture arch_s4bits of somador4bits
+
+} {} {}} C:/Users/a11721BCC031/Documents/VHDL/pr/work/somador4bits_tb.vhd {1 {vcom -work work -2002 -explicit C:/Users/a11721BCC031/Documents/VHDL/pr/work/somador4bits_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador4bits_tb
+-- Compiling architecture TB of somador4bits_tb
+
+} {} {}} C:/Users/a11721BCC031/Documents/VHDL/pr/work/somadorcompleto.vhd {1 {vcom -work work -2002 -explicit C:/Users/a11721BCC031/Documents/VHDL/pr/work/somadorcompleto.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somadorcompleto
+-- Compiling architecture arch_sc of somadorcompleto
+
+} {} {}}
