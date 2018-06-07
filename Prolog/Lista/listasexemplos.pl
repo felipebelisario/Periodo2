@@ -132,9 +132,3 @@ media([X|Y],R):-
     n_de_elementos([X|Y],R2),
     R is R1/R2,!.
 
-pegar([1],[X],[X]).
-pegar([T|H],[X|Y],R):-
-    W is T-1,
-    pegar(W,Y,R),
-    pegar(H,Y,R).
-
