@@ -107,7 +107,7 @@ removeRespostas :- retract(nao(_)),fail.
 */
 removeRespostas :-
 	retractall(sim(_)),
-	retractall(nao(_)).
+	retractall(nao(_)),
     retractall(animal(_)).
 
 executa(1):-
